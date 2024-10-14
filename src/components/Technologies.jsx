@@ -48,52 +48,67 @@ const Technologies =() => {
                         initial="initial"
                         animate="animate"
                         variants={iconVariants(2.5)}
+                        className="flex flex-col items-center"
                         >
                             
-                            <RiReactjsLine className=" p-2 text-8xl text-cyan-400"/>
+                            <RiReactjsLine className=" p-2 text-5xl md:text-7xl lg:text-8xl text-cyan-400"/>
+                            <p className="text-base text-stone-500">React.js</p>
                         </motion.div>
                         <motion.div
                         initial="initial"
                         animate="animate"
                         variants={iconVariants(5)}
+                        className="flex flex-col items-center"
                         >
-                            <RiNextjsFill className=" p-2 text-8xl text-white"/>
+                            <RiNextjsFill className=" p-2 text-5xl md:text-7xl lg:text-8xl text-white"/>
+                            <p className="text-base text-stone-500">Next.js</p>
                         </motion.div>
                         <motion.div
                         initial="initial"
                         animate="animate"
                         variants={iconVariants(3)}
+                        className="flex flex-col items-center"
                         >
-                            <IoLogoJavascript className=" p-2 text-8xl text-yellow-400"/>
+                            <IoLogoJavascript className=" p-2 text-5xl md:text-7xl lg:text-8xl text-yellow-400"/>
+                            <p className="text-base text-stone-500">JavaScript</p>
                         </motion.div>
                         <motion.div
                         initial="initial"
                         animate="animate"
                         variants={iconVariants(6)}
-                        
+                        className="flex flex-col items-center"
                         >
-                            <TbBrandRedux  className=" p-2 text-8xl text-purple-600"/>
+                            <TbBrandRedux  className=" p-2 text-5xl md:text-7xl lg:text-8xl text-purple-600"/>
+                            <p className="text-base text-stone-500">Redux</p>
                         </motion.div>
                         <motion.div
                         initial="initial"
                         animate="animate"
                         variants={iconVariants(2)}
+                        className="flex flex-col items-center"
                         >
-                            <RiTailwindCssFill  className=" p-2 text-8xl text-cyan-400"/>
+                            <RiTailwindCssFill  className=" p-2 text-5xl md:text-7xl lg:text-8xl text-cyan-400"/>
+                            <p className="text-base text-stone-500">Tailwind CSS</p>
                         </motion.div>
                         <motion.div
                         initial="initial"
                         animate="animate"
                         variants={iconVariants(2.5)}
+                        className="flex flex-col items-center"
                         >
-                            <SiTypescript className=" p-2 text-8xl text-blue-500"/>
+                            <SiTypescript className=" p-2 text-5xl md:text-7xl lg:text-8xl text-blue-500"/>
+                            <p className="text-base text-stone-500">TypeScript</p>
                         </motion.div>
                         <motion.div
                         initial="initial"
                         animate="animate"
                         variants={iconVariants(6)}
+                        className="flex flex-col items-center"
                         >
-                            <SiMui  className="p-2 text-8xl text-cyan-400"/>
+                            <SiMui  className="p-2 text-5xl md:text-7xl lg:text-8xl text-cyan-400" />
+                            <p className="text-base text-stone-500">MUI</p>
+                               
+                                
                         </motion.div>
                         
                       
