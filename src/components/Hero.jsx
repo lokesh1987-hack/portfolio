@@ -1,7 +1,7 @@
 import profilePic from "../assets/amr_kmr_shw.png"
 import { HERO_CONTENT } from "../constants";
 import {motion} from  "framer-motion"
-
+import { FaDownload } from "react-icons/fa6";
 const containerVariants = {
     hidden:{opacity:0,x:-100},
     visible:{
@@ -71,15 +71,18 @@ const Hero = () =>{
                             ">
                             {HERO_CONTENT}
                             </motion.p>
-                            <motion.a 
+                            <motion.a
                             variants={childVariants}
                             href="/resume.pdf"
                             target="_blank"
                             rel="noopener noreffer"
+                            whileHover={{ scale: 1.2 }}
                             download
-                            className="bg-white  rounded-full p-4 text-sm text-stone-800 mb-10"
+                            className="bg-white hover:bg-black hover:border border-white hover:text-white rounded-full p-4 text-sm text-stone-800 mb-10"
                             >
-                                Download Resume
+                               <div className="flex items-center">
+                               <FaDownload className="w-6 h-6 mr-2" /> <p className="text-ld">Download Resume</p>
+                               </div>
                         </motion.a>
                         </div>
                 </motion.div>
