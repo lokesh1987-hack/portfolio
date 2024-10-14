@@ -10,7 +10,6 @@ const containerVariants = {
         transistion:{
             duration:0.5,
             staggerChilderen:0.5,
-
         },
     }    
 }
@@ -22,7 +21,7 @@ const childVariants = {
         x:0,
         transition:
         {
-            duration:0.5
+            duration:0.5,
         }
     }
 }
