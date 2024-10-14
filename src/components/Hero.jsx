@@ -65,7 +65,7 @@ const Hero = () =>{
                             </motion.span>
                             <motion.p 
                             variants={childVariants}
-                            className="my-2 text-center lg:text-start max-w-2xl py-6 lg:text-2xl leading-relaxed tracking-tighter
+                            className="my-2 text-center lg:text-start max-w-2xl py-6 text-lg lg:text-2xl leading-relaxed tracking-tighter
                             bg-gradient-to-r from-stone-300 to-stone-600 bg-clip-text
                               text-transparent
                             ">
