@@ -1,4 +1,4 @@
-import profilePic from "../assets/amr_kmr_shw.png"
+import profilePic from "../assets/amr_kmr_shw_compressed_logo.png"
 import { HERO_CONTENT } from "../constants";
 import {motion} from  "framer-motion"
 import { FaDownload } from "react-icons/fa6";
