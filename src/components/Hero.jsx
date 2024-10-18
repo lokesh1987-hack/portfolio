@@ -8,7 +8,7 @@ const containerVariants = {
         opacity:1,
         x:0,
         transistion:{
-            duration:0.5,
+            duration:0.7,
             staggerChilderen:0.5,
         },
     }    
@@ -21,7 +21,7 @@ const childVariants = {
         x:0,
         transition:
         {
-            duration:0.5,
+            duration:0.7,
         }
     }
 }
@@ -70,7 +70,7 @@ const Hero = () =>{
                             ">
                             {HERO_CONTENT}
                             </motion.p>
-                            <motion.a
+                            {/* <motion.a
                             variants={childVariants}
                             href="/resume.pdf"
                             target="_blank"
@@ -82,7 +82,7 @@ const Hero = () =>{
                                <div className="flex items-center">
                                <FaDownload className="w-6 h-6 mr-2" /> <p className="text-ld">Download Resume</p>
                                </div>
-                        </motion.a>
+                        </motion.a> */}
                         </div>
                 </motion.div>
             </div>
