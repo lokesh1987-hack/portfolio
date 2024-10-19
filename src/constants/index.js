@@ -34,7 +34,7 @@ export const EXPERIENCES = [
   {
     year: "2020 - 2021",
     role: "Junior Front End Developer ",
-    company: "Mitroz Technologies",
+    company: "Solivia Business Solutions",
     description: `I have developed various web applications, tackling diverse and challenging projects that require innovative problem-solving. My work involves collaborating with cross-functional teams to gather requirements and ensure solutions align with user needs. I focus on building responsive, user-friendly interfaces that enhance the overall user experience. This experience has honed my skills in both front-end and back-end development, making me a versatile asset to any team.`,
     technologies: ["HTML","CSS","JavaScript","React.js","Bootstrap"],
   },
