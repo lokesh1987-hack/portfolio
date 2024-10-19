@@ -21,7 +21,7 @@ export const EXPERIENCES = [
     role: "Senior Frontend Developer",
     company: "Expeditech Inc",
     description: `At Expeditech Inc, I worked on **Truvanta**, the company's core product focused on network security and end-to-end encryption with a screen mirroring platform. My role involved **developing a responsive user interface** to enhance the user experience and ensure seamless navigation across devices. I was also responsible for **maintaining the web portal**, addressing functionality and performance issues, and **managing support tickets** to resolve user-reported issues promptly, ensuring the platform's reliability and efficiency.`,
-    technologies: ["React.js","Next.js","TypeScript","Tailwind CSS","Shadcn UI","MS Azure"],
+    technologies: ["React.js","Next.js","TypeScript","Tailwind CSS","Shadcn UI","Git","Git Lab",],
   },
 
   {
