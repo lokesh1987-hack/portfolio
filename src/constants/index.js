@@ -4,9 +4,9 @@
 // import project4 from "../assets/projects/project-4.webp";
 
 export const HERO_CONTENT = `I
-I am a Full Stack Developer with over 4 years of experience, specializing in front-end technologies like React while gaining proficiency in back-end development.I enjoy solving complex problems and thrive in fast-paced environments. I'm passionate about continuous learning and staying up-to-date with the latest tech trends. Collaborative by nature, I work well in teams to achieve impactful project outcomes.`;
+I am a Full Stack (Front-End Focus)  Developer with over 4 years of experience, specializing in front-end technologies like React while gaining proficiency in back-end development.I enjoy solving complex problems and thrive in fast-paced environments. I'm passionate about continuous learning and staying up-to-date with the latest tech trends. Collaborative by nature, I work well in teams to achieve impactful project outcomes.`;
 
-export const ABOUT_TEXT = `I am a dedicated and skilled full stack developer with over 4 years of hands-on experience in building user-centric web applications. My expertise spans across React, Node.js, and various front-end and back-end technologies, allowing me to deliver efficient, scalable solutions. My journey started with a passion for problem-solving, which has evolved into a career focused on continuous learning and adapting to new challenges. I thrive in collaborative, fast-paced environments and enjoy solving complex issues with clean, maintainable code. Outside of work, I stay active by exploring new technologies and expanding my skill set.`;
+export const ABOUT_TEXT = `I am a dedicated and skilled full stack (Front-End Focus) developer with over 4 years of hands-on experience in building user-centric web applications. My expertise spans across React, Node.js, and various front-end and back-end technologies, allowing me to deliver efficient, scalable solutions. My journey started with a passion for problem-solving, which has evolved into a career focused on continuous learning and adapting to new challenges. I thrive in collaborative, fast-paced environments and enjoy solving complex issues with clean, maintainable code. Outside of work, I stay active by exploring new technologies and expanding my skill set.`;
 
 export const EXPERIENCES = [
   {
@@ -14,14 +14,14 @@ export const EXPERIENCES = [
     role: "Senior Software Engineer",
     company: "Canibuild",
     description: `As a Senior Software Engineer and Integration Lead at canibuild, I oversee the development and integration of scalable web applications using technologies like React, Next.js, and TypeScript. I collaborate with cross-functional teams to ensure seamless system integration while maintaining code quality and performance. My role involves leading integration efforts, optimizing workflows, and delivering efficient, user-centric solutions. Additionally, I mentor junior developers and drive best practices within the team.`,
-    technologies: ["Javascript", "React.js", "Next.js", "TypeScript"],
+    technologies: ["Javascript", "React.js", "Next.js", "TypeScript","Tailwind CSS","Storyblok CMS","Git","Git Lab","Vercel"],
   },
   {
     year: "2024 - 2024 ",
     role: "Senior Frontend Developer",
     company: "Expeditech Inc",
     description: `At Expeditech Inc, I worked on **Truvanta**, the company's core product focused on network security and end-to-end encryption with a screen mirroring platform. My role involved **developing a responsive user interface** to enhance the user experience and ensure seamless navigation across devices. I was also responsible for **maintaining the web portal**, addressing functionality and performance issues, and **managing support tickets** to resolve user-reported issues promptly, ensuring the platform's reliability and efficiency.`,
-    technologies: ["React.js","Next.js","TypeScript","Taiwind CSS","ShadCn UI"],
+    technologies: ["React.js","Next.js","TypeScript","Tailwind CSS","Shadcn UI","MS Azure"],
   },
 
   {
@@ -29,7 +29,7 @@ export const EXPERIENCES = [
     role: "Software Engineer",
     company: "Mitroz Technologies",
     description: `I have developed various web applications, tackling diverse and challenging projects that require innovative problem-solving. My work involves collaborating with cross-functional teams to gather requirements and ensure solutions align with user needs. I focus on building responsive, user-friendly interfaces that enhance the overall user experience. This experience has honed my skills in both front-end and back-end development, making me a versatile asset to any team.`,
-    technologies: ["React", "Redux", "TypeScript", "Material UI"],
+    technologies: ["React","Next.js", "Redux", "TypeScript", "Material UI","Tailwind CSS"],
   },
 ];
 

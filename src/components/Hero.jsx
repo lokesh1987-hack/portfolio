@@ -70,9 +70,9 @@ const Hero = () =>{
                             ">
                             {HERO_CONTENT}
                             </motion.p>
-                            {/* <motion.a
+                            <motion.a
                             variants={childVariants}
-                            href="/resume.pdf"
+                            href="/Amar _Kumar_Shaw_(4_YOE).pdf"
                             target="_blank"
                             rel="noopener noreffer"
                             whileHover={{ scale: 1.2 }}
@@ -82,7 +82,7 @@ const Hero = () =>{
                                <div className="flex items-center">
                                <FaDownload className="w-6 h-6 mr-2" /> <p className="text-ld">Download Resume</p>
                                </div>
-                        </motion.a> */}
+                        </motion.a>
                         </div>
                 </motion.div>
             </div>
