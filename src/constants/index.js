@@ -20,7 +20,7 @@ export const EXPERIENCES = [
     year: "2024 - 2024 ",
     role: "Senior Frontend Developer",
     company: "Expeditech Inc",
-    description: `At Expeditech Inc, I worked on **Truvanta**, the company's core product focused on network security and end-to-end encryption with a screen mirroring platform. My role involved **developing a responsive user interface** to enhance the user experience and ensure seamless navigation across devices. I was also responsible for **maintaining the web portal**, addressing functionality and performance issues, and **managing support tickets** to resolve user-reported issues promptly, ensuring the platform's reliability and efficiency.`,
+    description: `At Expeditech Inc, I worked on Truvanta, the company's core product focused on network security and end-to-end encryption with a screen mirroring platform. My role involved **developing a responsive user interface** to enhance the user experience and ensure seamless navigation across devices. I was also responsible for **maintaining the web portal**, addressing functionality and performance issues, and **managing support tickets** to resolve user-reported issues promptly, ensuring the platform's reliability and efficiency.`,
     technologies: ["React.js","Next.js","TypeScript","Tailwind CSS","Shadcn UI","Git","Git Lab",],
   },
 
@@ -35,7 +35,7 @@ export const EXPERIENCES = [
     year: "2020 - 2021",
     role: "Junior Front End Developer ",
     company: "Solivia Business Solutions",
-    description: `I have developed various web applications, tackling diverse and challenging projects that require innovative problem-solving. My work involves collaborating with cross-functional teams to gather requirements and ensure solutions align with user needs. I focus on building responsive, user-friendly interfaces that enhance the overall user experience. This experience has honed my skills in both front-end and back-end development, making me a versatile asset to any team.`,
+    description: `As a Junior Dev, I have developed various web applications, tackling diverse and challenging projects that require innovative problem-solving. My work involves collaborating with cross-functional teams to gather requirements and ensure solutions align with user needs. I focus on building responsive, user-friendly interfaces that enhance the overall user experience. This experience has honed my skills in front-end and making me a versatile asset to any team.`,
     technologies: ["HTML","CSS","JavaScript","React.js","Bootstrap"],
   },
 ];
