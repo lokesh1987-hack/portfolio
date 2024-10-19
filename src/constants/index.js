@@ -26,10 +26,17 @@ export const EXPERIENCES = [
 
   {
     year: "2021 - 2023",
-    role: "Software Engineer",
+    role: "Mid-Front End Developer",
     company: "Mitroz Technologies",
     description: `I have developed various web applications, tackling diverse and challenging projects that require innovative problem-solving. My work involves collaborating with cross-functional teams to gather requirements and ensure solutions align with user needs. I focus on building responsive, user-friendly interfaces that enhance the overall user experience. This experience has honed my skills in both front-end and back-end development, making me a versatile asset to any team.`,
-    technologies: ["React","Next.js", "Redux", "TypeScript", "Material UI","Tailwind CSS"],
+    technologies: ["React","Next.js", "Redux", "React Native","TypeScript", "Material UI","Tailwind CSS"],
+  },
+  {
+    year: "2020 - 2021",
+    role: "Junior Front End Developer ",
+    company: "Mitroz Technologies",
+    description: `I have developed various web applications, tackling diverse and challenging projects that require innovative problem-solving. My work involves collaborating with cross-functional teams to gather requirements and ensure solutions align with user needs. I focus on building responsive, user-friendly interfaces that enhance the overall user experience. This experience has honed my skills in both front-end and back-end development, making me a versatile asset to any team.`,
+    technologies: ["HTML","CSS","JavaScript","React.js","Bootstrap"],
   },
 ];
 
