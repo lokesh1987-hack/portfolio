@@ -3,7 +3,7 @@
 // import project3 from "../assets/projects/project-3.webp";
 // import project4 from "../assets/projects/project-4.webp";
 
-export const HERO_CONTENT = `I am a Front-End web Developer with over 2+ years of experience, specializing in front-end technologies like React while gaining proficiency in back-end development.I enjoy solving complex problems and thrive in fast-paced environments. I'm passionate about continuous learning and staying up-to-date with the latest tech trends. Collaborative by nature, I work well in teams to achieve impactful project outcomes.`;
+export const HERO_CONTENT = `As a Front-End Developer with over 2+ years of hands-on experience, I specialize in creating dynamic, user-centered applications using modern tech stacks like React and Next.js. I’m passionate about crafting intuitive interfaces and solving complex challenges that enhance user experiences. Known for thriving in fast-paced environments, I’m always exploring the latest trends in web development to deliver cutting-edge solutions. I bring a collaborative mindset, working seamlessly within teams to achieve impactful and innovative project outcomes.`;
 
 export const ABOUT_TEXT = `I am a dedicated and skilled Front-End developer with over 2+ years of hands-on experience in building user-centric web applications. My expertise spans across React, Node.js, and various front-end and back-end technologies, allowing me to deliver efficient, scalable solutions. My journey started with a passion for problem-solving, which has evolved into a career focused on continuous learning and adapting to new challenges. I thrive in collaborative, fast-paced environments and enjoy solving complex issues with clean, maintainable code. Outside of work, I stay active by exploring new technologies and expanding my skill set.`;
 
@@ -12,55 +12,63 @@ export const EXPERIENCES = [
     year: "2024 - Present",
     role: "Frontend Developer",
     company: "LIttardo Emperium",
-    description: `As a Senior Software Engineer and Integration Lead at canibuild, I oversee the development and integration of scalable web applications using technologies like React, Next.js, and TypeScript. I collaborate with cross-functional teams to ensure seamless system integration while maintaining code quality and performance. My role involves leading integration efforts, optimizing workflows, and delivering efficient, user-centric solutions. Additionally, I mentor junior developers and drive best practices within the team.`,
+    description: `As the dedicated front-end developer for Littardo Emporium’s eCommerce platform, I have led the design and implementation of a highly responsive, SEO-optimized website using Next.js, tailored for exceptional performance. I utilized Tailwind CSS and SCSS to create a visually appealing, mobile-first design that adapts smoothly across devices. Through building reusable, high-performance UI components with React.js and JavaScript, I ensured maintainability and streamlined the user interface. I integrated Razorpay to offer secure payment processing, enhancing customer trust, and satisfaction. For effective state management, I employed the Context API, optimizing the user experience, and leveraged server-side rendering to improve load times and SEO, resulting in a seamless, engaging browsing experience.`,
     technologies: [
+      "HTML5",
+      "CSS3",
+      "SCSS",
       "Javascript",
-      "React.js",
       "Next.js",
       "Tailwind CSS",
       "Git",
-      "Vercel",
       "Netlify",
       "Razorpay Payment Gateway",
     ],
   },
   {
     year: "2023 - 2023 ",
-    role: "SoftWare Engineer",
-    company: "Unischolars",
-    description: `At Expeditech Inc, I worked on Truvanta, the company's core product focused on network security and end-to-end encryption with a screen mirroring platform. My role involved **developing a responsive user interface** to enhance the user experience and ensure seamless navigation across devices. I was also responsible for **maintaining the web portal**, addressing functionality and performance issues, and **managing support tickets** to resolve user-reported issues promptly, ensuring the platform's reliability and efficiency.`,
+    role: "Software Development Engineer (SDE-1)",
+    company: "UniScholars",
+    description: `At UniScholars, a premier platform for study-abroad counseling and end-to-end student services, I contributed to creating seamless user experiences and optimizing performance across their digital platforms. My role encompassed developing and maintaining applications that supported UniScholars, a comprehensive resource for students, and UniAcco, a cross-border accommodation platform. My problem-solving skills were instrumental in swiftly debugging code and implementing innovative solutions, which improved platform efficiency and elevated the user experience.`,
     technologies: [
       "React.js",
       "Next.js",
       "TypeScript",
       "Tailwind CSS",
-      "Shadcn UI",
+      "Bootstrap",
+      "Material UI",
       "Git",
-      "Git Lab",
     ],
   },
 
   {
     year: "2021 - 2022",
-    role: "Junior Front End Developer",
-    company: "Mitroz Technologies",
-    description: `I have developed various web applications, tackling diverse and challenging projects that require innovative problem-solving. My work involves collaborating with cross-functional teams to gather requirements and ensure solutions align with user needs. I focus on building responsive, user-friendly interfaces that enhance the overall user experience. This experience has honed my skills in both front-end and back-end development, making me a versatile asset to any team.`,
+    role: "Front-End Developer",
+    company: "SplendorNet Technologies Pvt. Ltd.",
+    description: `At SplendorNet, I worked on diverse projects, including CONA (Coke One North America), a platform that empowers Coca-Cola's North American bottling partners to collaborate seamlessly. I developed front-end solutions using ReactJS, JavaScript, TypeScript, and Material UI within a JSON-Rest architecture to ensure a smooth, efficient user interface. I also contributed to Fluid Robotics, a start-up focused on water and wastewater management technology, where I used ReactJS, Redux, Node.js, Express, MongoDB, and Bootstrap to create a robust, scalable platform. My work emphasized performance, responsiveness, and clean code for impactful digital experiences.`,
     technologies: [
       "React",
       "Next.js",
       "Redux",
-      "React Native",
       "TypeScript",
       "Material UI",
-      "Tailwind CSS",
+      "Bootstrap",
+      "CSS",
     ],
   },
   {
     year: "2021 - 2021",
     role: "Forntend Developer (Internship)",
     company: "Digikull",
-    description: `As a Junior Dev, I have developed various web applications, tackling diverse and challenging projects that require innovative problem-solving. My work involves collaborating with cross-functional teams to gather requirements and ensure solutions align with user needs. I focus on building responsive, user-friendly interfaces that enhance the overall user experience. This experience has honed my skilfront-end and making me a versatile asset to any team.`,
-    technologies: ["HTML", "CSS", "JavaScript", "React.js", "Bootstrap"],
+    description: `As a Intern, I have developed various web applications, tackling diverse and challenging projects that require innovative problem-solving. My work involves collaborating with cross-functional teams to gather requirements and ensure solutions align with user needs. I focus on building responsive, user-friendly interfaces that enhance the overall user experience. This experience has honed my skilfront-end and making me a versatile asset to any team.`,
+    technologies: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Bootstrap",
+      "Redux",
+    ],
   },
 ];
 
