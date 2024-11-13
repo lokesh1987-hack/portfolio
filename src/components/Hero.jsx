@@ -1,4 +1,4 @@
-import profilePic from "../assets/amr_kmr_shw_compressed_logo.png"
+import profilePic from "../assets/liladhar_image.jpg"
 import { HERO_CONTENT } from "../constants";
 import {motion} from  "framer-motion"
 import { FaDownload } from "react-icons/fa6";
@@ -34,7 +34,7 @@ const Hero = () =>{
                         <motion.img
                          src={profilePic} 
                          height={650}
-                         alt="Amar_Kumar_Shaw" 
+                         alt="Image" 
                          className="border border-stone-900 rounded-3xl"
                          initial={{x:100,opacity:0}}
                          animate={{x:0,opacity:1}}
@@ -53,7 +53,7 @@ const Hero = () =>{
                             <motion.h2
                             variants={childVariants}
                             className="pb-2 text-3xl tracking-tighter lg:text-7xl ">
-                                Amar Kumar Shaw
+                                Liladhar Harode
                             </motion.h2>
                             <motion.span
                             variants={childVariants}
@@ -72,7 +72,7 @@ const Hero = () =>{
                             </motion.p>
                             <motion.a
                             variants={childVariants}
-                            href="/Amar _Kumar_Shaw_(4_YOE).pdf"
+                            href="/liladhar_resume.pdf"
                             target="_blank"
                             rel="noopener noreffer"
                             whileHover={{ scale: 1.2 }}
