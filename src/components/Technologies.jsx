@@ -48,7 +48,7 @@ const Technologies = () => {
           variants={iconVariants(2.5)}
           className="flex flex-col items-center"
         >
-          <RiHtml5Line className="p-2 text-5xl md:text-7xl lg:text-8xl text-cyan-400" />
+          <RiHtml5Line className="p-2 text-5xl md:text-7xl lg:text-8xl text-[#E44D26]" />
           <p className="text-base text-stone-500">HTML 5</p>
         </motion.div>
         <motion.div

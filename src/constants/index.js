@@ -23,6 +23,7 @@ export const EXPERIENCES = [
       "Git",
       "Netlify",
       "Razorpay Payment Gateway",
+      "Google Map",
     ],
   },
   {
