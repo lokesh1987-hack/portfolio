@@ -3,7 +3,6 @@ import Hero from "./components/Hero";
 import Technologies from "./components/Technologies";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
-import profilePic from "../assets/liladhar_image.jpg";
 
 const App = () => {
   return (
