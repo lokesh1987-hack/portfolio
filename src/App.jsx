@@ -23,7 +23,6 @@ const App = () => {
           property="og:description"
           content="A portfolio showcasing my web development skills."
         />
-        <meta property="og:image" content="https://liladhar.in/assets/liladhar_image-C1Bhaepi.jpg" />
         <meta property="og:url" content="https://liladhar.in/" />
         <meta property="og:type" content="website" />
       </Helmet>
